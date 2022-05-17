@@ -2,4 +2,4 @@ adding anew line to file
 
 The tool Strings is one of the most used tool when analysing malware. 
 It allows the analyst to quickly identify the sequence of characters 
-that can be useful in identifying features, or any other variable used by the malware.
+
